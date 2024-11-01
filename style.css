@@ -1,0 +1,78 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Estilo para o Título 1 */
+.titulo-estilo1 {
+    font-size: 2.5em;
+    color: #1E90FF; /* Cor azul */
+    background-color: #E0F7FA; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Título 2 */
+.titulo-estilo2 {
+    font-size: 2.5em;
+    color: #ff00b3; /* Cor azul */
+    background-color: #E0F7FA; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Título 3 */
+.titulo-estilo3 {
+    font-size: 2.5em;
+    color: #007219; /* Cor azul */
+    background-color: #E0F7FA; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Título 4 */
+.titulo-estilo4 {
+    font-size: 2.5em;
+    color: #8c00ff; /* Cor azul */
+    background-color: #E0F7FA; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Título 5 */
+.titulo-estilo5 {
+    font-size: 2.5em;
+    color: #ff0000; /* Cor azul */
+    background-color: #E0F7FA; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Título 5 */
+.linkyoutube{
+    font-size: 2.5em;
+    color: #ff0000; /* Cor azul */
+    background-color: #E0F7FA; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+
+
+
